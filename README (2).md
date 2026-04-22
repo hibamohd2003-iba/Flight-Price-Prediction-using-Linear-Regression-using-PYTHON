@@ -121,4 +121,4 @@ python analysis.py
 
 ## 👩‍💻 Author
 
-**Hiba Muhammed** | Roll No: 25 | S6IE | Department of Information Engineering
+**Hiba Muhammed** | Roll No: 25 | S6IE | Department of IndustrialEngineering
